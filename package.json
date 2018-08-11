@@ -1,0 +1,25 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A simple web server built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianRivas/simple-http-node-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Damian Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianRivas/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/DamianRivas/simple-http-node-server#readme",
+  "dependencies": {
+    "eslint": "^5.3.0"
+  }
+}
